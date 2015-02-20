@@ -1,4 +1,4 @@
-#tasks li:hover {
+#lists li:hover {
   text-decoration: underline;
   color: blue;
 }
